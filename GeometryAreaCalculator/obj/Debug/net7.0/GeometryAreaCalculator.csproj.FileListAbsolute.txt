@@ -1,0 +1,15 @@
+C:\codigos\projetos C#\GeometryAreaCalculator\GeometryAreaCalculator\bin\Debug\net7.0\GeometryAreaCalculator.exe
+C:\codigos\projetos C#\GeometryAreaCalculator\GeometryAreaCalculator\bin\Debug\net7.0\GeometryAreaCalculator.deps.json
+C:\codigos\projetos C#\GeometryAreaCalculator\GeometryAreaCalculator\bin\Debug\net7.0\GeometryAreaCalculator.runtimeconfig.json
+C:\codigos\projetos C#\GeometryAreaCalculator\GeometryAreaCalculator\bin\Debug\net7.0\GeometryAreaCalculator.dll
+C:\codigos\projetos C#\GeometryAreaCalculator\GeometryAreaCalculator\bin\Debug\net7.0\GeometryAreaCalculator.pdb
+C:\codigos\projetos C#\GeometryAreaCalculator\GeometryAreaCalculator\obj\Debug\net7.0\GeometryAreaCalculator.csproj.AssemblyReference.cache
+C:\codigos\projetos C#\GeometryAreaCalculator\GeometryAreaCalculator\obj\Debug\net7.0\GeometryAreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\codigos\projetos C#\GeometryAreaCalculator\GeometryAreaCalculator\obj\Debug\net7.0\GeometryAreaCalculator.AssemblyInfoInputs.cache
+C:\codigos\projetos C#\GeometryAreaCalculator\GeometryAreaCalculator\obj\Debug\net7.0\GeometryAreaCalculator.AssemblyInfo.cs
+C:\codigos\projetos C#\GeometryAreaCalculator\GeometryAreaCalculator\obj\Debug\net7.0\GeometryAreaCalculator.csproj.CoreCompileInputs.cache
+C:\codigos\projetos C#\GeometryAreaCalculator\GeometryAreaCalculator\obj\Debug\net7.0\GeometryAreaCalculator.dll
+C:\codigos\projetos C#\GeometryAreaCalculator\GeometryAreaCalculator\obj\Debug\net7.0\refint\GeometryAreaCalculator.dll
+C:\codigos\projetos C#\GeometryAreaCalculator\GeometryAreaCalculator\obj\Debug\net7.0\GeometryAreaCalculator.pdb
+C:\codigos\projetos C#\GeometryAreaCalculator\GeometryAreaCalculator\obj\Debug\net7.0\GeometryAreaCalculator.genruntimeconfig.cache
+C:\codigos\projetos C#\GeometryAreaCalculator\GeometryAreaCalculator\obj\Debug\net7.0\ref\GeometryAreaCalculator.dll
